@@ -10,6 +10,6 @@ This project features a production-grade machine learning pipeline that automati
 ### Model Interpretability (XAI): Extracted global feature importances to successfully reverse-engineer the "black box" model, revealing the exact 3-mer motifs driving host adaptation (MKA, VRD).
 
 ## Performance Metrics
-Overall Accuracy: 98.67%
-F1-Score: 0.99
-Top Biomarker Discovered: MKA (Importance Score: 3.16%)
+### Overall Accuracy: 98.67%
+### F1-Score: 0.99
+### Top Biomarker Discovered: MKA (Importance Score: 3.16%)
