@@ -12,4 +12,4 @@ This project features a production-grade machine learning pipeline that automati
 ## Performance Metrics
 ### Overall Accuracy: 98.67%
 ### F1-Score: 0.99
-### Top Biomarker Discovered: MKA (Importance Score: 3.16%)
+### Top Biomarker Discovered: MKA (Methionine-Lysine-Alanine) with an Importance Score of 3.16%.
